@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  catchphrase: MyString
+  clone: false
+  series: one
+
+two:
+  name: MyString
+  catchphrase: MyString
+  clone: false
+  series: two
